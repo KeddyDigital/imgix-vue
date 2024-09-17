@@ -40,7 +40,7 @@
     "release:dryRun": "npx node-env-run --exec 'npx semantic-release --dryRun'"
   },
   "dependencies": {
-    "@imgix/js-core": "^3.7.0"
+    "@imgix/js-core": "github:KeddyDigital/vue-markdown-render"
   },
   "devDependencies": {
     "@babel/core": "7.24.7",
